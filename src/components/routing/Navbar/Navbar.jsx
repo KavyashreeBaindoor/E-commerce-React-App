@@ -8,9 +8,8 @@ const Navbar = () => {
             <div className="navbar-container">
                   
                   <div className="links-container">
-                           <Link className="link" to="/shop">shop</Link>
-                           <Link className="link" to="/shop">shop</Link>
-                           <Link className="link" to="/shop">shop</Link>
+                           <Link className="link" to="login">login</Link>
+                           
                   </div>
             </div>
              <Outlet />
